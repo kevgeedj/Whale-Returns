@@ -1,6 +1,6 @@
 # Whale-Returns
 
-This project uses Python and Pandas to analyze various investment portfolios and compare their performance and risk metrics.
+This project uses Python and Pandas to analyze various investment portfolios. Performance and risk metrics are compared.
 
 ## Files
 
